@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1604431717
+#1604517708
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -17,6 +17,10 @@ images/sprite13-sheet0.png
 images/sprite14-sheet0.png
 images/sprite15-sheet0.png
 images/sprite16-sheet0.png
+images/tiledbackground.png
+media/whatsapp-audio-2020-10-24-at-11.15.56-am.ogg
+media/naranja.ogg
+media/aceite.ogg
 icon-16.png
 icon-32.png
 icon-114.png
